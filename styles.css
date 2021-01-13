@@ -174,8 +174,8 @@ body {
     z-index: 4;
     top: 15px;
     center: 15px;
-    height: 1084px;
-    width: 1844px;
+    height: 600px;
+    width: 800px;
     border-radius: 10px;
     opacity: 1;
     pointer-events: none;
