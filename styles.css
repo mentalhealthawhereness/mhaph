@@ -118,11 +118,11 @@ body {
   }
 
 .legend .item1 h3::before {
-    color: #3a7bbf;
+    color: #3abf6f;
 }
 
 .legend .item2 h3::before {
-    color: #000000;
+    color: #d6db44;
 }
 
 .legend .item3 h3::before {
