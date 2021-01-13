@@ -4,8 +4,8 @@ window.onload = function () {
     var radiusMax = 20;
 
     var color = {
-        general: '#3a7bbf',
-        location: '#000000',
+        free: '#3abf6f',
+        paid: '#d6db44',
         event: '#000000'
     }
 
