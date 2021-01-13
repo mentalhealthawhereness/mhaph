@@ -20,7 +20,7 @@ Add or Update Mental Health Services on the Map
 <a href="https://forms.gle/p1cNjNtF7ffg1mbu9" target="_blank">MHAPh form</a>
 
 [![preview screenshot](/assets/guide.png)](https://)  
- <a href="https://mentalhealthawhereness.github.io/mhaph/assets/guide1.png" target="blank">Uploading Guide</a> 
+ <a href="https://mentalhealthawhereness.github.io/mhaph/assets/guide.png" target="blank">Uploading Guide</a> 
 
 Database structure `places.json`
 -
