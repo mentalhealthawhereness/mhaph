@@ -106,6 +106,7 @@ window.onload = function () {
             marker.bindPopup(data.title);
         }
     };
+    mymap.addLayer(leafletView);
     
     
     //// load dataset from json ////////
