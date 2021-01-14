@@ -91,6 +91,22 @@ window.onload = function () {
         position: 'topleft'}); //Adds Search toolbar; OSMGeocoder
     mymap.addControl(osmGeocoder);
     
+    var leafletView = new PruneClusterForLeaflet();
+    for (var i = 0, l = addressPoints.length; i < l; ++i) {
+        leafletView.RegisterMarker(new PruneCluster.Marker(addressPoints[i][0], addressPoints[i][1], {title: addressPoints[i][2]}));
+    }
+    for (i = 0, l = addressPoints2.length; i < l; ++i) {
+        leafletView.RegisterMarker(new PruneCluster.Marker(addressPoints2[i][0], addressPoints2[i][1], {title: addressPoints[i][2]}));
+    }
+
+    leafletView.PrepareLeafletMarker = function (marker, data) {
+        if (marker.getPopup()) {
+            marker.setPopupContent(data.title);
+        } else {
+            marker.bindPopup(data.title);
+        }
+    };
+    
     
     //// load dataset from json ////////
 
