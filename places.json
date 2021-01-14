@@ -789,5 +789,77 @@
         "type": "paid",
         "time": "day",
         "author": ""
+    },
+ {
+        "id": "Bccc",
+        "label": "",
+        "url": "",
+        "vol": 1,
+        "db": 0.2,
+        "x": 14.2244566,
+        "y": 120.842744,
+        "type": "paid",
+        "time": "day",
+        "author": ""
+    },
+ {
+        "id": "Bhrcpc",
+        "label": "",
+        "url": "",
+        "vol": 1,
+        "db": 0.2,
+        "x": 14.4567991,
+        "y": 121.0057087,
+        "type": "paid",
+        "time": "day",
+        "author": ""
+    },
+ {
+        "id": "Bmn",
+        "label": "",
+        "url": "",
+        "vol": 1,
+        "db": 0.2,
+        "x": 13.6188256,
+        "y": 123.1919812,
+        "type": "paid",
+        "time": "day",
+        "author": ""
+    },
+ {
+        "id": "Bpv",
+        "label": "",
+        "url": "",
+        "vol": 1,
+        "db": 0.2,
+        "x": 14.7061736,
+        "y": 120.9767356,
+        "type": "paid",
+        "time": "day",
+        "author": ""
+    },
+ {
+        "id": "Bsp",
+        "label": "",
+        "url": "",
+        "vol": 1,
+        "db": 0.2,
+        "x": 14.565689,
+        "y": 121.0659906,
+        "type": "paid",
+        "time": "day",
+        "author": ""
+    },
+ {
+        "id": "Bwc",
+        "label": "",
+        "url": "",
+        "vol": 1,
+        "db": 0.2,
+        "x": 14.4133275,
+        "y": 121.043549,
+        "type": "paid",
+        "time": "day",
+        "author": ""
     }
 ]
