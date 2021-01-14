@@ -91,11 +91,6 @@ window.onload = function () {
         position: 'topleft'}); //Adds Search toolbar; OSMGeocoder
     mymap.addControl(osmGeocoder);
     
-    var pruneCluster = new PruneClusterForLeaflet();
-    var marker = new PruneCluster.Marker(places);
-    pruneCluster.RegisterMarker(marker);
-    }).addTo(mymap);
-    
     
     //// load dataset from json ////////
 
