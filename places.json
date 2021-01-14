@@ -693,5 +693,101 @@
         "type": "free",
         "time": "day",
         "author": ""
+    },
+ {
+        "id": "Aba",
+        "label": "",
+        "url": "",
+        "vol": 1,
+        "db": 0.2,
+        "x": 14.6873121,
+        "y": 14.6873121,
+        "type": "paid",
+        "time": "day",
+        "author": ""
+    },
+ {
+        "id": "Aai",
+        "label": "",
+        "url": "",
+        "vol": 1,
+        "db": 0.2,
+        "x": 14.5582571,
+        "y": 121.0181713,
+        "type": "paid",
+        "time": "day",
+        "author": ""
+    },
+ {
+        "id": "Abc",
+        "label": "",
+        "url": "",
+        "vol": 1,
+        "db": 0.2,
+        "x": 14.6416672,
+        "y": 121.0795362,
+        "type": "paid",
+        "time": "day",
+        "author": ""
+    },
+ {
+        "id": "Albay",
+        "label": "",
+        "url": "",
+        "vol": 1,
+        "db": 0.2,
+        "x": 13.1393785,
+        "y": 123.7338866,
+        "type": "paid",
+        "time": "day",
+        "author": ""
+    },
+ {
+        "id": "Alrs",
+        "label": "",
+        "url": "",
+        "vol": 1,
+        "db": 0.2,
+        "x": 14.3191378,
+        "y": 121.0967293,
+        "type": "paid",
+        "time": "day",
+        "author": ""
+    },
+ {
+        "id": "Alrsp",
+        "label": "",
+        "url": "",
+        "vol": 1,
+        "db": 0.2,
+        "x": 14.62056,
+        "y": 121.0070042,
+        "type": "paid",
+        "time": "day",
+        "author": ""
+    },
+ {
+        "id": "Anuito",
+        "label": "",
+        "url": "",
+        "vol": 1,
+        "db": 0.2,
+        "x": 13.6308713,
+        "y": 123.1850986,
+        "type": "paid",
+        "time": "day",
+        "author": ""
+    },
+ {
+        "id": "Arcf",
+        "label": "",
+        "url": "",
+        "vol": 1,
+        "db": 0.2,
+        "x": 14.6797949,
+        "y": 121.1248469,
+        "type": "paid",
+        "time": "day",
+        "author": ""
     }
 ]
